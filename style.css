@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size: 40px;
+    color: rgb(236, 12, 124);
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
+}
+section{
+    height: 400px;
+    padding: 150px;
+}
+.hello{
+    width: 40%;
+    float: left;
+    margin: 5px;
+    padding: 2%;
+}
+.img{
+    width: 100%;
+}
+.work{
+    width: 29%;
+    float: left;
+    padding: 2%;
+   
+}
+.my{
+    text-align: center;
+}
+.hire-me{
+    text-decoration:none;
+    background-image: linear-gradient( 90deg, rgb(250, 46, 158),rgb(196, 9, 80)); 
+    border-radius: 5px;
+    font-weight: 800;
+    color: rgb(243, 245, 245);
+    padding: 10px 30px;
+}
+.what{
+    text-align: center;
+}
+.div-one{
+    background-image: url("manik/header-bg.png");
+    background-repeat: no-repeat;
+    background-position:right;
+
+}
+.div-two{
+    background-image:url("manik/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position:right;
+}
+.div-three{
+    background-image: url("manik/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position:right;
+}
+.div-for{
+    background-image: url("manik/footer-bg.png");
+    background-repeat: no-repeat;
+  
+}
+#color{
+    padding: 40px 100px;
+    margin: 10px;
+}
